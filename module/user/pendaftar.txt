@@ -1,0 +1,12 @@
+Nama: Arifin
+Email: Momo
+Password: $2y$10$ryw5M824pL9Lyn0EClNsKu2holcrvkSCrP9r3QOWVbKnFDqryvEqS
+
+Nama: momo
+Email: momo
+Password: $2y$10$YNbe.V0p.Nng.3VLfaBpMOrCaJj8jza4BNWGDWqaNTJbzi1KiHCRC
+
+Nama: arifin
+Email: mz
+Password: $2y$10$CaMjr5EhAWjsI.GOndKQUumXUrC66h.qgPK1QvLZT9SaJTdxTFYde
+
